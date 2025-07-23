@@ -1,0 +1,12 @@
+{
+  "behavior": {
+    "preferModular": true,
+    "commentStyle": "docstring",
+    "suggestionLevel": "high"
+  },
+  "prompts": [
+    "Refactor for ES6+ standards",
+    "Add comments and docstrings",
+    "Suggest modular code structure"
+  ]
+}

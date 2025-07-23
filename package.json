@@ -1,0 +1,13 @@
+{
+  "name": "google-charts-graphs-example",
+  "version": "1.0.0",
+  "description": "Template for Google Charts integration with PHP backend and JS frontend",
+  "main": "src/graph.js",
+  "scripts": {
+    "build": "echo 'No build step defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "author": "hkevin01",
+  "license": "MIT",
+  "dependencies": {}
+}
